@@ -6,10 +6,10 @@ print("para começar, informe o seu nome")
 nome = input("digite o nome")
 print("insira seu CPF")
 cpf = input("insira o número do CPF com 11 digitos sem pontos ou traços")
-if(len(cpf)<11):
+if(len(cpf) < 11):
     print("o CPF tem menos de 11 dígitos")
 
-if(len(cpf)>11):
+if(len(cpf) > 11):
     print("o CPF tem mais de 11 dígitos")
 
 # caso o CPF tenha formato adequado, então continua o programa
@@ -29,6 +29,7 @@ print("o número da casa é ", numero_casa)
 print("o nome do seu bairro é ", bairro)
 print("nome da cidade ", cidade)
 print("estado é ", UF)
-
+input("pressione enter para continuar")
 # finaliza
 print("até logo")
+input("pressione enter para finalizar seu script")
