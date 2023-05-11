@@ -4,6 +4,7 @@ utilizarei estes arquivos para também treinar versionamento de código pela pla
 os códigos aqui são de propriedade de thadeu henrique dos anjos e somente deste
 caso queira contribuir, envie sua PR
 para mais informações fale com thadeu diretamente
-contato@thadeudosanjos.com.br
+thadeudosanjos@hotmail.com
 
+eu sei que este repositório não foi mais atualizado, ams, agora estou procurando fazer atualizações constanters nele.
 Até mais
