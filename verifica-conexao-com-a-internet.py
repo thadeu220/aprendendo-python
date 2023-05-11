@@ -9,7 +9,7 @@ def check_internet_connectivity():
         return True
     except requests.ConnectionError as e:
         print(f"Sua conexão foi perdida: {e}")
-        print("Confira algumas dicas de como corrigir": ")
+        print("Confira algumas dicas de como corrigir: ")
         print("Verifique com o seu provedor de internet se você está sofrendo com problemas de roteamento, isso é muito comum em provedores que usam conexão primitiva.")
         print(
             "- Verifique se as configurações de seu roteador estão corretamente ajustadas.")
