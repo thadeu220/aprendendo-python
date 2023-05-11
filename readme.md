@@ -6,5 +6,5 @@ caso queira contribuir, envie sua PR
 para mais informações fale com thadeu diretamente
 thadeudosanjos@hotmail.com
 
-eu sei que este repositório não foi mais atualizado, ams, agora estou procurando fazer atualizações constanters nele.
+eu sei que este repositório não foi mais atualizado, mas, agora estou procurando fazer atualizações constantes nele.
 Até mais
